@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Saksham gupta
+**|| software Engineer || Greater noida from India**
+
+Email Me 👉 ✉️ **sakshamg7881@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently study on:** ITS Engineering college 
+- 🌱 **I’m currently learning:** Java programming language 
+- 📫 **How to reach me:** sakshamg7881@gmail.com
+- 😄 **Pronouns:** Saksham gupta
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saksham gupta) 
